@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214
   },
   "right": {
     "id": "e9001a289b451915",
@@ -88,6 +88,7 @@
   },
   "active": "81f4d23b07a97a63",
   "lastOpenFiles": [
-    "OWASP - what i've learn.md"
+    "OWASP - what i've learn.md",
+    "Sources.md"
   ]
 }
