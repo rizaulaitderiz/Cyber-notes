@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OWASP - what i've learn.md",
+            "file": "OWASP - what i've learned.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP - what i've learn.md",
+                "file": "OWASP - what i've learned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,9 @@
   },
   "active": "81f4d23b07a97a63",
   "lastOpenFiles": [
-    "OWASP - what i've learn.md",
+    "OWASP - what i've learned.md",
+    "RedTeam.md",
+    "Outils utilisés.md",
     "Sources.md"
   ]
 }
