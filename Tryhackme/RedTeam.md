@@ -5,8 +5,8 @@
 > 07/2022 - Certification Pentester Jr THM
 > 07/2022 - 09/2022 Apprentissage des outils ci-dessous.
 
->> Buffer Overflow Exploitation
->> Active Directory
->> Privilèges Escalation
->> Jenkins Exploit
->> Joomla CMS Exploit
+- Buffer Overflow Exploitation
+- Active Directory
+- Privilèges Escalation
+- Jenkins Exploit
+- Joomla CMS Exploit
