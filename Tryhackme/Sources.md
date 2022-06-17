@@ -4,3 +4,4 @@
 > - HackerRecipes
 > - HackTricks
 > - PayloadAllTheThings
+> - https://s1rn3tz.gitbook.io/notes/
