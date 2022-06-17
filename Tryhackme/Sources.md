@@ -5,3 +5,4 @@
 > - HackTricks
 > - PayloadAllTheThings
 > - https://s1rn3tz.gitbook.io/notes/
+> - https://www.operation-kernel.fr/
